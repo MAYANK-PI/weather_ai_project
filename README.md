@@ -1,5 +1,5 @@
 # weather_ai_project
-# Weather Data Analysis and Temperature Prediction Using Machine Learning
+
 
 ## Project Overview
 
